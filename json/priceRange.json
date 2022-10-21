@@ -1,0 +1,404 @@
+{
+  "PriceRange": [
+    {
+      "priceRange": "$",
+      "restaurant": "Bella Milano",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Wang Gang",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "54th Street",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Dewey's Pizza",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Dairy Queen",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Jimmy John's",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Wasabi",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Qdoba",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Edison's",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.455
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.455
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.3
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.455
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Red Robin",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "IMO's",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Sonic",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Gulf Shores",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "Taco Bell",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$",
+      "restaurant": "IHOP",
+      "cf": 0.455
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Bella Milano",
+      "cf": 0.3
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Wang Gang",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "54th Street",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Wasabi",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Qdoba",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Edison's",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Cleveland Heath",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Red Robin",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "IMO's",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Sonic",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "Gulf Shores",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$",
+      "restaurant": "IHOP",
+      "cf": 0.45
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Bella Milano",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Wang Gang",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "54th Street",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Dairy Queen",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Jimmy John's",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Wasabi",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Qdoba",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Edison's",
+      "cf": 0.35
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.1
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Cleveland Heath",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.2
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.4
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.2
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Red Robin",
+      "cf": 0.3
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "IMO's",
+      "cf": 0.25
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Sonic",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Gulf Shores",
+      "cf": 0.559
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "Taco Bell",
+      "cf": -0.99
+    },
+    {
+      "priceRange": "$$$",
+      "restaurant": "IHOP",
+      "cf": 0.25
+    }
+  ]
+}

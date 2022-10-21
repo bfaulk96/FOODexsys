@@ -1,0 +1,7 @@
+
+*.iml
+__pycache__/
+.DS_STORE
+
+.idea/
+.vscode/

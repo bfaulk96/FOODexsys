@@ -1,0 +1,94 @@
+{
+  "DiningExperience": [
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Dairy Queen",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Sonic",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Taco Bell",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.2
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Jimmy John's",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Qdoba",
+      "cf": 0.35
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.35
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.35
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.35
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "IMO's",
+      "cf": 0.3
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.5
+    },
+    {
+      "diningExperience": "Drive-Thru/ Take-Out",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.3
+    },
+    {
+      "diningExperience": "Delivery",
+      "restaurant": "Wang Gang",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Delivery",
+      "restaurant": "Jimmy John's",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Delivery",
+      "restaurant": "IMO's",
+      "cf": 0.58
+    },
+    {
+      "diningExperience": "Delivery",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.2
+    }
+  ]
+}

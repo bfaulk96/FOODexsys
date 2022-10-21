@@ -1,0 +1,72 @@
+{"Bar":[
+  {
+    "bar": "Yes",
+    "restaurant": "Bella Milano",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Wang Gang",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Los Tres Amigos",
+    "cf": -0.99
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "54th Street",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Dewey's Pizza",
+    "cf": -0.99
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": -0.99
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Wasabi",
+    "cf": -0.99
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Edison's",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.99
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Red Robin",
+    "cf": 0.5
+  },
+  {
+    "bar": "Yes",
+    "restaurant": "Gulf Shores",
+    "cf": 0.5
+  }
+]}

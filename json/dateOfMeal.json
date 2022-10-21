@@ -1,0 +1,2018 @@
+{"DateOfMeal":[
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bella Milano",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wang Gang",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Los Tres Amigos",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "54th Street",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dewey's Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dairy Queen",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Jimmy John's",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wasabi",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Qdoba",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Edison's",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Red Robin",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "IMO's",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sonic",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Gulf Shores",
+    "cf": 0.1
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "sunday",
+    "restaurant": "IHOP",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bella Milano",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wang Gang",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Los Tres Amigos",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "54th Street",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dewey's Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dairy Queen",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Jimmy John's",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wasabi",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Qdoba",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Edison's",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Red Robin",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "IMO's",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sonic",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Gulf Shores",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekday",
+    "restaurant": "IHOP",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bella Milano",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wang Gang",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Los Tres Amigos",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "54th Street",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dewey's Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dairy Queen",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Jimmy John's",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wasabi",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Qdoba",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Edison's",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": -0.4
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Red Robin",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "IMO's",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sonic",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Gulf Shores",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "breakfast",
+    "dayOfWeek": "weekend",
+    "restaurant": "IHOP",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bella Milano",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wang Gang",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.4
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "54th Street",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dewey's Pizza",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wasabi",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Edison's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Red Robin",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "IMO's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Gulf Shores",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "Taco Bell",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "sunday",
+    "restaurant": "IHOP",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bella Milano",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wang Gang",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "54th Street",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wasabi",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Edison's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Red Robin",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "IMO's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sonic",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Gulf Shores",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Chick-Fil-A",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "Taco Bell",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekday",
+    "restaurant": "IHOP",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bella Milano",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wang Gang",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "54th Street",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dairy Queen",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Jimmy John's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wasabi",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Edison's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Red Robin",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "IMO's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sonic",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Gulf Shores",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Chick-Fil-A",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "Taco Bell",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "lunch",
+    "dayOfWeek": "weekend",
+    "restaurant": "IHOP",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bella Milano",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wang Gang",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "54th Street",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wasabi",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Edison's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Red Robin",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "IMO's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Gulf Shores",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "Taco Bell",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "sunday",
+    "restaurant": "IHOP",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bella Milano",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wang Gang",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "54th Street",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wasabi",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Edison's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Red Robin",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "IMO's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Gulf Shores",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Chick-Fil-A",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "Taco Bell",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekday",
+    "restaurant": "IHOP",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bella Milano",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wang Gang",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "54th Street",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dairy Queen",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Jimmy John's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wasabi",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Qdoba",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Edison's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Doc's Smokehouse",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Red Robin",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "IMO's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Gulf Shores",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Chick-Fil-A",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "Taco Bell",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "dinner",
+    "dayOfWeek": "weekend",
+    "restaurant": "IHOP",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bella Milano",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wang Gang",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "54th Street",
+    "cf": 0.45
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Wasabi",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Qdoba",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Edison's",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.8
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Cleveland Heath",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Texas Roadhouse",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Red Robin",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "IMO's",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Gulf Shores",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "sunday",
+    "restaurant": "IHOP",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bella Milano",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wang Gang",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "54th Street",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Dairy Queen",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Jimmy John's",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Wasabi",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Qdoba",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Edison's",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Red Robin",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "IMO's",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Sonic",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Gulf Shores",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.6
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekday",
+    "restaurant": "IHOP",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bella Milano",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wang Gang",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Los Tres Amigos",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "54th Street",
+    "cf": 0.35
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Bull & Bear Grill & Bar",
+    "cf": 0.4
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Peel Wood Fired Pizza",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dewey's Pizza",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Dairy Queen",
+    "cf": 0.15
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Jimmy John's",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Buffalo Wild Wings",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Wasabi",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Qdoba",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sgt. Pepper's Café",
+    "cf": -0.8
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Edison's",
+    "cf": 0.5
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Doc's Smokehouse",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Cleveland Heath",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sacred Grounds Coffee",
+    "cf": -0.8
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Crazy Bowls & Wraps",
+    "cf": -0.2
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Texas Roadhouse",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "St. Louis Bread Co.",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Red Robin",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Steak N' Shake",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "IMO's",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Sonic",
+    "cf": 0.3
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Gulf Shores",
+    "cf": 0.25
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Chick-Fil-A",
+    "cf": -0.99
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "Taco Bell",
+    "cf": 0.58
+  },
+  {
+    "timeOfDay": "late",
+    "dayOfWeek": "weekend",
+    "restaurant": "IHOP",
+    "cf": 0.58
+  }
+]}

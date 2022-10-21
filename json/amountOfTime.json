@@ -1,0 +1,394 @@
+{
+  "AmountOfTime": [
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Dairy Queen",
+      "cf": 0.6
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Jimmy John's",
+      "cf": 0.69
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.45
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.3
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.3
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Sonic",
+      "cf": 0.6
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.6
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Taco Bell",
+      "cf": 0.69
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "IHOP",
+      "cf": 0.2
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Qdoba",
+      "cf": 0.5
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.5
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Bella Milano",
+      "cf": -0.35
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "54th Street",
+      "cf": -0.2
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.25
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.4
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Dewey's",
+      "cf": -0.4
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.4
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.25
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Gulf Shores",
+      "cf": -0.3
+    },
+    {
+      "time": "Less than 30 minutes",
+      "restaurant": "Red Robin",
+      "cf": -0.15
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Bella Milano",
+      "cf": 0.25
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Wang Gang",
+      "cf": 0.35
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.4
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "54th Street",
+      "cf": 0.25
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.35
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.25
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.25
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.4
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Wasabi",
+      "cf": 0.4
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Qdoba",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.45
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Edison's",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Cleveland Heath",
+      "cf": 0.3
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.25
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Red Robin",
+      "cf": 0.45
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "IMO's",
+      "cf": 0.55
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Gulf Shores",
+      "cf": 0.3
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "IHOP",
+      "cf": 0.5
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Dairy Queen",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Jimmy John's",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.3
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Sonic",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.6
+    },
+    {
+      "time": "30 - 60 minutes",
+      "restaurant": "Taco Bell",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Bella Milano",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Wang Gang",
+      "cf": 0.4
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.25
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "54th Street",
+      "cf": 0.45
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.455
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.559
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.55
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.3
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Wasabi",
+      "cf": 0.255
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.45
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Cleveland Heath",
+      "cf": 0.45
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Red Robin",
+      "cf": 0.45
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Gulf Shores",
+      "cf": 0.455
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Qdoba",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Edison's",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "IMO's",
+      "cf": 0.55
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "IHOP",
+      "cf": 0.5
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Dairy Queen",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Jimmy John's",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.3
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Sonic",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.6
+    },
+    {
+      "time": "More than 60 minutes",
+      "restaurant": "Taco Bell",
+      "cf": 0.4
+    }
+  ]
+}

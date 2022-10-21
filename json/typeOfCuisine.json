@@ -1,0 +1,824 @@
+{
+  "TypeOfCuisine": [
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Bella Milano",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.6
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.6
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "IMO's",
+      "cf": 0.6
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Wang Gang",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Los Tres Amigos",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "54th Street",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Dairy Queen",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Jimmy John's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Wasabi",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Qdoba",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Edison's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Doc's Smokehouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Red Robin",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Sonic",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Gulf Shores",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "Taco Bell",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Italian",
+      "restaurant": "IHOP",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Dewey's Pizza",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "IMO's",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Bella Milano",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Wang Gang",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Los Tres Amigos",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "54th Street",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Dairy Queen",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Jimmy John's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Wasabi",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Qdoba",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Edison's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Doc's Smokehouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Sacred Grounds Coffee",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Red Robin",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Sonic",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Gulf Shores",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "Taco Bell",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Pizza",
+      "restaurant": "IHOP",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Gulf Shores",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Bella Milano",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Wang Gang",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Los Tres Amigos",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "54th Street",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Dewey's Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Dairy Queen",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Jimmy John's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Wasabi",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Qdoba",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Edison's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Doc's Smokehouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Red Robin",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "IMO's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Sonic",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "Taco Bell",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Seafood",
+      "restaurant": "IHOP",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "54th Street",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Dairy Queen",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Jimmy John's",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Edison's",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Doc's Smokehouse",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Cleveland Heath",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Texas Roadhouse",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Red Robin",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Steak N' Shake",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Sonic",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Chick-Fil-A",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Taco Bell",
+      "cf": 0.4
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "IHOP",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Bella Milano",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Wang Gang",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Los Tres Amigos",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Dewey's Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Wasabi",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Qdoba",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "IMO's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "American",
+      "restaurant": "Gulf Shores",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Los Tres Amigos",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Taco Bell",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Qdoba",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Bella Milano",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Wang Gang",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "54th Street",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Dewey's Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Dairy Queen",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Jimmy John's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Wasabi",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Edison's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Doc's Smokehouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Red Robin",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "IMO's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Sonic",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Gulf Shores",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Mexican",
+      "restaurant": "IHOP",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Wasabi",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Wang Gang",
+      "cf": 0.8
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Bella Milano",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Los Tres Amigos",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "54th Street",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Bull & Bear Grill & Bar",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Peel Wood Fired Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Dewey's Pizza",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Dairy Queen",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Jimmy John's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Buffalo Wild Wings",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Qdoba",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Sgt. Pepper's Café",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Edison's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Doc's Smokehouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Cleveland Heath",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Crazy Bowls & Wraps",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Texas Roadhouse",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "St. Louis Bread Co.",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Red Robin",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Steak N' Shake",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "IMO's",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Sonic",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Gulf Shores",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Chick-Fil-A",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "Taco Bell",
+      "cf": -0.65
+    },
+    {
+      "typeOfCuisine": "Asian",
+      "restaurant": "IHOP",
+      "cf": -0.65
+    }
+  ]
+}
